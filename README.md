@@ -19,7 +19,6 @@ Desenvolvendo habilidades em HTML, CSS e JAVASCRIPT
 
 <p align="center">
   <img alt="Projeto Devlinks" src="./assets/Layout.png.jpg" width="100%">
-  <img alt="Projeto Devlinks" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
